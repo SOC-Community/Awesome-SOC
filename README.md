@@ -5,23 +5,10 @@ Those are my view, based on my own experience as SOC/CSIRT analyst and team mana
 
 NB: Generally speaking, SOC here refers to detection activity, and CERT/CSIRT to incident response activity. CERT is a well-known (formerly) US trademark, run by [CERT-CC](https://www.sei.cmu.edu/about/divisions/cert/index.cfm), but I prefer the term CSIRT.
 
-# ToC
-* [Must read](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#must-read)
-* [Fundamental concepts](https://github.com/cyb3rxp/awesome-soc/blob/main/soc_basics.md)
-* [Mission-critical means (tools/sensors)](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#mission-critical-means-toolssensors)
-* [SOAR](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#soar)
-* [IT/security Watch](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#itsecurity-watch)
-* [Detection engineering](https://github.com/cyb3rxp/awesome-soc/blob/main/detection_engineering.md)
-* [Threat intelligence](https://github.com/cyb3rxp/awesome-soc/blob/main/threat_intelligence.md)
-* [Management](https://github.com/cyb3rxp/awesome-soc/blob/main/management.md)
-* [HR and training](https://github.com/cyb3rxp/awesome-soc/blob/main/hr_training.md)
-* [IT achitecture](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#it-achitecture)
-* [To go further (next steps)](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#to-go-further)
-* [Appendix](https://github.com/cyb3rxp/awesome-soc/blob/main/README.md#appendix)
-
 # Must read
-
-## For a SOC
+* [SOC History and Facts] (https://www.managedsentinel.com/siem-traditional-vs-cloud/)
+* [Awesome SOC] (https://github.com/cyb3rxp/awesome-soc)
+* SOCLess, [Netflix SOC Model] (https://www.linkedin.com/pulse/socless-detection-team-netflix-alex-maestretti/)
 * MITRE, [11 strategies for a world-class SOC](https://www.mitre.org/publications/technical-papers/11-strategies-world-class-cybersecurity-operations-center) (or use [local file](https://github.com/cyb3rxp/awesome-soc/blob/main/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf)): part 0 (Fundamentals).
 * CMM, [SOCTOM](https://soc-cmm.com/downloads/SOCTOM%20whitepaper.pdf)
 * LetsDefend [SOC analyst interview questions](https://github.com/LetsDefend/SOC-Interview-Questions)
